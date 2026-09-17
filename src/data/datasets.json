@@ -1,7 +1,7 @@
 [
   {
-    "id": "1788150924154",
-    "title": "©kiryoアプリ　ひと目の詰み３手詰① (2026/8/31)",
+    "id": "1789659158487",
+    "title": "©kiryoアプリ　ひと目の詰み３手詰① (2026/9/18)",
     "appTitle": "©kiryoアプリ　ひと目の詰み３手詰①",
     "clearUrl": "https://service-8830.ai.studio/complete?book=05",
     "problems": [
@@ -366,11 +366,11 @@
         "initialSfen": "7kg/7g1/7B1/9/9/9/9/9/9 b RGrbg4s4n4l18p 1"
       }
     ],
-    "timestamp": 1788150924154
+    "timestamp": 1789659158487
   },
   {
-    "id": "1788150911730",
-    "title": "©kiryoアプリ　ひと目の詰み３手詰② (2026/8/31)",
+    "id": "1789659148773",
+    "title": "©kiryoアプリ　ひと目の詰み３手詰② (2026/9/18)",
     "appTitle": "©kiryoアプリ　ひと目の詰み３手詰②",
     "clearUrl": "https://service-8830.ai.studio/complete?book=06",
     "problems": [
@@ -735,11 +735,11 @@
         "initialSfen": "7ps/7k1/5P3/7S1/9/9/9/9/9 b G2r2b3g2s4n4l16p 1"
       }
     ],
-    "timestamp": 1788150911730
+    "timestamp": 1789659148773
   },
   {
-    "id": "1788150893680",
-    "title": "©kiryoアプリ　ひと目の詰み３手詰③ (2026/8/31)",
+    "id": "1789659142277",
+    "title": "©kiryoアプリ　ひと目の詰み３手詰③ (2026/9/18)",
     "appTitle": "©kiryoアプリ　ひと目の詰み３手詰③",
     "clearUrl": "https://service-8830.ai.studio/complete?book=07",
     "problems": [
@@ -1104,11 +1104,11 @@
         "initialSfen": "9/9/9/9/9/7kS/9/6R2/9 b Sr2b4g2s4n4l18p 1"
       }
     ],
-    "timestamp": 1788150893680
+    "timestamp": 1789659142277
   },
   {
-    "id": "1788150881846",
-    "title": "©kiryoアプリ　ひと目の詰み３手詰④ (2026/8/31)",
+    "id": "1789659132187",
+    "title": "©kiryoアプリ　ひと目の詰み３手詰④ (2026/9/18)",
     "appTitle": "©kiryoアプリ　ひと目の詰み３手詰④",
     "clearUrl": "https://service-8830.ai.studio/complete?book=08",
     "problems": [
@@ -1134,7 +1134,7 @@
         "id": 4,
         "title": "第4問",
         "description": "【第 252 問】",
-        "initialSfen": "9/9/9/9/6gs1/4pk3/4l4/6P2/9 b BG2rb2g3s4n3l16p 1"
+        "initialSfen": "9/9/9/9/6gS1/4pk3/4l4/6P2/9 b BG2rb2g3s4n3l16p 1"
       },
       {
         "id": 5,
@@ -1473,6 +1473,6 @@
         "initialSfen": "9/9/9/9/9/8k/8B/7Pp/9 b G2r3g4s4n4l17p 1"
       }
     ],
-    "timestamp": 1788150881856
+    "timestamp": 1789659132201
   }
 ]
